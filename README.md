@@ -1,5 +1,7 @@
 # Clean & Print - Preparador de impresión de artículos
 
+Extensión JS para Chrome. Cuando se accede a alguna de las webs contempladas, pulsamos en la extensión y nos limpia el contenido de la web, dejándolo listo para imprimir o exportar a PDF.
+
 ## opensource.com
 
 ```js
